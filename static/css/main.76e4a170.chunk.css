@@ -1,0 +1,14 @@
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}code{font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace}*{margin:0;padding:0}body{height:1000px}.boxes{height:300px;width:100vw;background:#ff0;margin-top:100px}.hero{height:700px;width:100vw}.heroImage{background-image:url(/edserver/shaquille/static/media/2.8ac5f5bf.jpg)}#heroImage2,.heroImage{background-repeat:no-repeat;background-size:cover;background-position:center 50px;position:fixed;top:-50px;z-index:-100}#heroImage2{background-image:url(/edserver/shaquille/static/media/1.aff2d89c.jpg)}#heroImage3{background-image:url(/edserver/shaquille/static/media/3.e647bd0e.jpg)}#heroImage3,#heroImage4{background-repeat:no-repeat;background-size:cover;background-position:center 50px;position:fixed;top:-50px;z-index:-100}#heroImage4{background-image:url(/edserver/shaquille/static/media/4.775c772e.jpg)}a{text-decoration:none}nav{box-sizing:border-box;background-color:rgba(68,47,47,.3);height:100px;justify-content:space-around}.logo,nav{display:flex}.logo{align-items:center}h1{color:#dc2626;text-shadow:1px 1px 1px #639;font-size:2em;font-family:Helvetica,Arial,sans-serif;cursor:-webkit-grab;cursor:grab}h1,ul{margin:0;padding:0}ul{list-style-type:none;display:flex;align-items:center}li{margin:0 30px;padding:0 5px}a{font-size:16px;color:#fff;text-transform:uppercase;text-shadow:1px 1px 1px #333}a:hover{color:#000}
+
+
+
+
+
+
+
+
+
+
+
+/*!! Album section */section{display:flex;justify-content:flex-start;margin-left:320px;margin-top:120px;height:auto;box-sizing:border-box;width:30vw}#album{margin:140px 0 0 18px}section h2{margin:0;padding:0}section span{font-size:36px;font-weight:bolder}.line{width:108px;height:8px;background:#3b3b3b;margin:0;padding:0}h3{color:red;display:flex;justify-content:center;font-size:26px}
+/*# sourceMappingURL=main.76e4a170.chunk.css.map */

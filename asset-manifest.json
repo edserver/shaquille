@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/edserver/shaquille/static/css/main.76e4a170.chunk.css",
+    "main.js": "/edserver/shaquille/static/js/main.a3104d52.chunk.js",
+    "main.js.map": "/edserver/shaquille/static/js/main.a3104d52.chunk.js.map",
+    "runtime~main.js": "/edserver/shaquille/static/js/runtime~main.5e030f79.js",
+    "runtime~main.js.map": "/edserver/shaquille/static/js/runtime~main.5e030f79.js.map",
+    "static/js/2.8bb8a4ea.chunk.js": "/edserver/shaquille/static/js/2.8bb8a4ea.chunk.js",
+    "static/js/2.8bb8a4ea.chunk.js.map": "/edserver/shaquille/static/js/2.8bb8a4ea.chunk.js.map",
+    "index.html": "/edserver/shaquille/index.html",
+    "precache-manifest.228413290fd115925fcd401286882df0.js": "/edserver/shaquille/precache-manifest.228413290fd115925fcd401286882df0.js",
+    "service-worker.js": "/edserver/shaquille/service-worker.js",
+    "static/css/main.76e4a170.chunk.css.map": "/edserver/shaquille/static/css/main.76e4a170.chunk.css.map",
+    "static/media/App.css": "/edserver/shaquille/static/media/4.775c772e.jpg",
+    "static/media/logo.svg": "/edserver/shaquille/static/media/logo.5d5d9eef.svg"
+  }
+}
